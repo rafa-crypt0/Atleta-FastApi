@@ -1,0 +1,13 @@
+# Ignorar apenas o ambiente virtual
+.venv/
+
+# Ignorar arquivos de cache
+__pycache__/
+*.pyc
+
+# Ignorar banco SQLite
+workout.db
+
+# Ignorar env
+.env
+
