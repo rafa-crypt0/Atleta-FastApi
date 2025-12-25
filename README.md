@@ -163,14 +163,4 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 **Rafael Andrade Paiva**  
 GitHub: [@rafa-crypt0](https://github.com/rafa-crypt0)
 
----
-✅ Como usar:
-Crie um arquivo chamado README.md na raiz do seu repositório (pasta NovoDesafio)
-Cole todo o conteúdo acima
-Faça commit e push:
-powershell
 
-
-git add README.md
-git commit -m "docs: Add README"
-git push origin main
